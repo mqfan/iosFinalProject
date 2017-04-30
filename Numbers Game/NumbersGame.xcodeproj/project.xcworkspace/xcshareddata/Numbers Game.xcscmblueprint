@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "58AC66D14A1BCA83D273E4E5E7EA7A08739BC513",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "762A2CB24167ADEF09576B603B31816FE8A51B0C" : 9223372036854775807,
+    "58AC66D14A1BCA83D273E4E5E7EA7A08739BC513" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4BFB4E6-3CB0-4D6D-93AC-6DCB2116B0FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "762A2CB24167ADEF09576B603B31816FE8A51B0C" : "..",
+    "58AC66D14A1BCA83D273E4E5E7EA7A08739BC513" : "iosFinalProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Numbers Game",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Numbers Game\/Numbers Game.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mqfan\/iosFinalProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58AC66D14A1BCA83D273E4E5E7EA7A08739BC513"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mqfan\/hacktech2017.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "762A2CB24167ADEF09576B603B31816FE8A51B0C"
+    }
+  ]
+}
